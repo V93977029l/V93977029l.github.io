@@ -1,9 +1,9 @@
 # Site settings
 title: 范博然的个人主页
-SEOTitle: 范博然的博客 | Hux Blog
+SEOTitle: 范博然的博客 | Fan Blog
 header-img: img/home-bg.jpg
 email: fanborane@outlook.com
-description: "这里是 @范博然 的个人博客，与你一起探索世界 | 要做一个专业的程序员"
+description: "这里是 @范博然 的个人博客，与你一起研究编程 | 成为一个专业的程序员"
 keyword: "范博然, fanboran, fan, boran, fan_boran, 范博然的博客, 博客, 个人网站, 互联网"
 url: "https://fanboran.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
